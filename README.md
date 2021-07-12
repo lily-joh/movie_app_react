@@ -1,3 +1,3 @@
 # Movie App React
 
-React JS Fundamentals Course
+https://lily-joh.github.io/movie_app_react
